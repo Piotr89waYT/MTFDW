@@ -10,6 +10,8 @@ blender_io_GTA5Ped: https://github.com/lucasvinbr/blender_io_GTA5Ped
 
 Colider-Tool: https://github.com/Weisl/Collider-Tools
 
+Blender Kit: https://www.blenderkit.com/get-blenderkit/
+
 # 3DS Max
 Application: https://www.autodesk.co.uk/products/3ds-max/overview (iykyk)
 
